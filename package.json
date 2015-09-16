@@ -1,0 +1,20 @@
+{
+  "name": "aglio-template",
+  "version": "1.0.0",
+  "description": "Use browser-sync, and api-mock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tatsuya NOGUCHI",
+  "license": "ISC",
+  "devDependencies": {
+    "api-mock": "^0.2.2",
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-aglio": "0.0.9",
+    "gulp-ejs": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "rimraf": "^2.4.3"
+  }
+}
